@@ -1,10 +1,10 @@
 //Make first part of program print to file with letters placed vertically
 /*To show that the file must print to next line when being placed 
- back horizontally write string "nigger" to tell to go to next line
+ back horizontally write string bruh to tell to go to next line
  */
 /*Example:
    A  B   C
-  A A B   C nigger (translates to next line)
+  A A B   C bruh (translates to next line)
 */
 #include <iostream>
 #include <string>
